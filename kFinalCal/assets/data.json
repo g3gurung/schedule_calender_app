@@ -1,0 +1,28 @@
+[
+    {   "id": 1,
+        "year": 2015,
+        "month_index": 1,
+        "date": 20,
+        "schedule_info": "Can't come to work.",
+        "username": "Marty Friedman",
+        "d_o_r": "2015-01-19"
+    },
+    {
+        "id": 2,
+        "year": 2015,
+        "month_index": 1,
+        "date": 27,
+        "schedule_info": "Need a day off.",
+        "username": "Ian Gillan",
+        "d_o_r": "2015-01-20"
+    },
+    {
+        "id": 3,
+        "year": 2015,
+        "month_index": 2,
+        "date": 5,
+        "schedule_info": "Need a day off.",
+        "username": "Jimmy Page",
+        "d_o_r": "2015-01-25"
+    }
+]
